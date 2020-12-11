@@ -1,0 +1,11 @@
+[I am currently working on the solution, I have not hit the second star yet]
+
+I've decided to create a binary tree T for subsequences s of sequence M of
+modifiable elements of our set A of adapters.
+Each level L of the tree corresponds to subsequent element s_L of our
+set A - height of the tree is hence equal to the number of elements of set A.
+
+
+Alternatively we can create a ternary tree, where each child is a
+following element of a sequence. Maximum height is the same as in T
+but there is les
